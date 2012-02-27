@@ -1,4 +1,4 @@
-# The Book of Ruby - http://www.sapphiresteel.com
+# case example
 
 i = 1
 case( i )
